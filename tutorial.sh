@@ -10,8 +10,8 @@
 #/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ## Software List
-## fastqc to check quality of data, sickle to trim reads, trans-abyss to do de novo assembly
-## BLAST for BLAST searches, hisat2 for RNAseq read mapping 
+## fastqc to check quality of data, sickle to trim reads, oases to do de novo assembly
+## BLAST for BLAST searches, bowtie2 for RNAseq read mapping 
 
 ## install java (if not installed already)
 brew cask install java
